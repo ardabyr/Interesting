@@ -1,5 +1,5 @@
-#include &lt;stdio.h&gt;
-#include &lt;stdlib.h&gt;
+#include <stdio.h>
+#include <stdlib.h>
 int task(int m, int n, int t, double znach[t], int ind[t]) {
 	printf(&quot; transposed matrix\n & quot;);
 	double und[t];
